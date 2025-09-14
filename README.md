@@ -47,6 +47,3 @@ The project team set out to design a lock that is:
 - Power Supply  
 - Enclosure (prototype casing)  
 
----
-
-## 📂 Project Structure
