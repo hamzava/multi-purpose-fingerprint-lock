@@ -1,5 +1,7 @@
 # Multi-Purpose Fingerprint Lock (Budget-Constrained Group Project)
 
+![Fingerprint Lock Prototype](https://i.ibb.co/PGq8Q7Qy/fingerprint-lock.jpg)  
+
 A prototype access-control system designed to provide **secure, low-cost, and user-friendly** locking solutions for doors, safes, and other objects requiring controlled access.  
 This project was developed under strict **budget (£100)** and **time constraints**, highlighting practical engineering trade-offs and teamwork.
 
